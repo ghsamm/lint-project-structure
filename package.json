@@ -1,0 +1,23 @@
+{
+  "name": "lint-projet-structure",
+  "version": "0.0.2",
+  "description": "Lint file structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghsamm/lint-project-structure.git"
+  },
+  "keywords": [
+    "lint",
+    "project-structure"
+  ],
+  "author": "ghsamm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghsamm/project-structure/issues"
+  },
+  "homepage": "https://github.com/ghsamm/project-structure#readme"
+}
